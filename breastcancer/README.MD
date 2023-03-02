@@ -1,4 +1,4 @@
-Breast Cancer Data Instructions
+Machine Learning Breast Cancer Predicter
 ===
 Hi! This directory holds my breastcancer.py file.
 
