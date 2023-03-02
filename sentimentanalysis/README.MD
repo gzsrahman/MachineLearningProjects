@@ -4,6 +4,8 @@ Hello! I hope you're having a good day!
 
 The python script in this folder requires the installation of a pre-established data set. Please type the following into your terminal before running the script:
 >pip install datasets
+
+
 To run the script, simply type:
 >python3 sentimentanalysis.py into your terminal.
 
