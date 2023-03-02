@@ -1,4 +1,4 @@
-Machine Learning Breast Cancer Predicter
+Logistic Regression Machine Learning Model on Breast Cancer Data
 ===
 Hi! This directory holds my breastcancer.py file.
 
