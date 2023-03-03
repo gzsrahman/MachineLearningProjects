@@ -12,5 +12,5 @@ Once the logistic regression model is fitted to the data, it moves on to the tes
 
 The model, as of my last run through, predicts cancer positivity with 93% accuracy. That's pretty cool.
 
-Below, you can see the comparison of true and false positives and negatives.
+Below, you can see the comparison of true and false positives and negatives:
 ![bc_confusionmatrix](https://user-images.githubusercontent.com/124002750/222605510-1dd212f7-d77c-4639-9376-b60ac76f4f7b.png)
