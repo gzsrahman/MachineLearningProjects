@@ -11,3 +11,6 @@ In it, I use 5 parameters, average tumor radius, texture, perimeter, area, and s
 Once the logistic regression model is fitted to the data, it moves on to the testing phase using distinct testing parameters and predicting whether the corresponding parameters indicate cancer or not. Finally, the predictions are compared against the true data of whether there is cancer or not to test the proficiency of the program. 
 
 The model, as of my last run through, predicts cancer positivity with 93% accuracy. That's pretty cool.
+
+Below, you can see the comparison of true and false positives and negatives.
+![bc_confusionmatrix](https://user-images.githubusercontent.com/124002750/222605510-1dd212f7-d77c-4639-9376-b60ac76f4f7b.png)
